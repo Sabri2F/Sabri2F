@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m Farigh<br> 🔭 I’m currently working on Frontend development<br>👯 I’m looking to collaborate on any web development projects<br>🌱 I’m currently learning about Backend<br>
+👋 Hi, I’m Farigh<br> 🔭 I’m a Software Developer<br>👯 I’m looking to collaborate on any Software Development Projects<br>🌱 I believe in learning and growing everyday.<br>
 
 
 ## 🌐 Socials:
